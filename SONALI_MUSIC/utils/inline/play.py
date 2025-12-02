@@ -4,7 +4,7 @@ from pyrogram.types import InlineKeyboardButton
 from SONALI_MUSIC import app
 import config
 from SONALI_MUSIC.utils.formatters import time_to_seconds
-import stream_markup
+
 
 
 def track_markup(_, videoid, user_id, channel, fplay):
@@ -95,16 +95,6 @@ def stream_markup_timer(_, chat_id, played, dur):
         
         callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             
-
-        
-def livestream_markup(_, videoid, user_id, mode, channel, fplay):
-    
-        [
-            InlineKeyboardButton(
-                text=_["P_B_3"],
-                callback_data=f"LiveStream {videoid}|{user_id}|{mode}|{channel}|{fplay}",
-            ),
-        ],
     
 
 

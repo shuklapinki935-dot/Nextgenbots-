@@ -82,7 +82,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
     
-        [
+        
             InlineKeyboardButton(
                 text=_["P_B_1"],
                 callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",

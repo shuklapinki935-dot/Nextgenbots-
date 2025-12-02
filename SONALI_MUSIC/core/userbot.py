@@ -51,8 +51,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("kriti_bot_update")
-                await self.one.join_chat("KRITI_SUPPORT_GROUP")
+                await self.one.join_chat("NextGenBeatsbot")
+                await self.one.join_chat("https://t.me/+rftnqwN0H000YWU1")
             except:
                 pass
             assistants.append(1)
@@ -72,8 +72,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("kriti_bot_update")
-                await self.one.join_chat("KRITI_SUPPORT_GROUP")
+                await self.two.join_chat("NextGenBeatsbot")
+                await self.one.join_chat("https://t.me/+rftnqwN0H000YWU1")
             except:
                 pass
             assistants.append(2)
@@ -93,8 +93,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("kriti_bot_update")
-                await self.one.join_chat("KRITI_SUPPORT_GROUP")
+                await self.three.join_chat("NextGenBeatsbot")
+                await self.one.join_chat("https://t.me/+rftnqwN0H000YWU1")
             except:
                 pass
             assistants.append(3)

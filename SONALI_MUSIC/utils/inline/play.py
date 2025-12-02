@@ -97,7 +97,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         
 def livestream_markup(_, videoid, user_id, mode, channel, fplay):
-    buttons = [
+    
         [
             InlineKeyboardButton(
                 text=_["P_B_3"],

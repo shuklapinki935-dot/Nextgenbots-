@@ -13,7 +13,7 @@ start_txt = """**
  
 ❉  ʏᴏᴜ ᴄᴧη мʏ ᴜsє ᴘᴜʙʟɪᴄ ʀєᴘσs !!  
 
-✼ || [˹ᴋɪʀᴛɪ ꭙ ʙᴏᴛѕ˼ 💞](https://t.me/KRITI_SUPPORT_GROUP) ||
+✼ || [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://NextGenBeatsbot) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
@@ -28,11 +28,11 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜєʟᴘ •", url="https://t.me/KRITI_SUPPORT_GROUP"),
-          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/KRITI_SUPPORT_GROUP"),
+          InlineKeyboardButton("• ʜєʟᴘ •", url="https://t.me/NextGenBeatsbot"),
+          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/NextGenBeatsbot"),
           ],
 [
-InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/Sanantinimusicbot"),
+InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/RadhaXbot"),
 
         ]]
     

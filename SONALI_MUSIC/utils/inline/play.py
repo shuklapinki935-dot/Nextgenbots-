@@ -76,24 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(text="˹ᴋɪᴅɴᴀᴘ ᴍᴇ ʙᴀʙᴇs˼", url=f"https://t.me/{app.username}?startgroup=true"),
         ]
-    ]
-    return buttons 
-    
-    def stream_markup(_, chat_id):
-
-        def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
-    
-        
-            InlineKeyboardButton(
-                text=_["P_B_1"],
-                callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
-            ),
-            InlineKeyboardButton(
-                text=_["P_B_2"],
-                callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
-            ),
-        
-        callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
+    ],
             
     
 

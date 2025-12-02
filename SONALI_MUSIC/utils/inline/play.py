@@ -94,10 +94,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         
         callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             
-            InlineKeyboardButton(
-                text=_["P_B_2"],
-                callback_data=f"SonaPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
-            ),
+
         
 def livestream_markup(_, videoid, user_id, mode, channel, fplay):
     buttons = [

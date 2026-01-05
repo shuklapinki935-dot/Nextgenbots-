@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "23716023",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "167915ee85b8f6d5dd70d61f08c30d46",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8550201260:AAHAvT4wjjZ8TvTSGo9FCoymW433A8qtqYA",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "Go @PURVI_AI_BOT And type /id and get The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "8237288408",
         "required": true
       },
       "STRING_SESSION": {

@@ -5,21 +5,21 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("23716023"))
+API_HASH = getenv("167915ee85b8f6d5dd70d61f08c30d46")
 
-BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ISTKHAR_BABY_lll")
-BOT_USERNAME = getenv("BOT_USERNAME" , "Syn_Ixbot")
-BOT_NAME = getenv("BOT_NAME" , "˹sᴏɴᴧʟɪ ꭙ ᴍᴜsɪᴄ˼ ♪ [ ᴛᴘʙ ]™")
+BOT_TOKEN = getenv("8550201260:AAHAvT4wjjZ8TvTSGo9FCoymW433A8qtqYA")
+OWNER_USERNAME = getenv("OWNER_USERNAME","cute_girl_rohini")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Stranger_musicbot")
+BOT_NAME = getenv("BOT_NAME" , "ⳜƬⱤ𐤠ƝƓƸⱤ 〆 𝐌ᴜsɪᴄ")
 ASSUSERNAME = getenv("ASSUSERNAME" , "ALPHA")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", -1002584168578))
-OWNER_ID = int(getenv("OWNER_ID", 7995626429))
+LOGGER_ID = int(getenv("LOGGER_ID", -1003579861499))
+OWNER_ID = int(getenv("OWNER_ID", 8237288408))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/coder0481-maker/Nextgenbots-",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/shuklapinki935-dot/nextgenbots-",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -70,13 +70,13 @@ def time_to_seconds(time):
     return sum(int(x) * 60**i for i, x in enumerate(reversed(stringt.split(":"))))
 DURATION_LIMIT = int(time_to_seconds(f"{DURATION_LIMIT_MIN}:00"))
 if SUPPORT_CHANNEL:
-    if not re.match("(?:http|https)://", SUPPORT_CHANNEL):
+    if not re.match("(?:http|https)://", https://t.me/+9crnpY_arOliZDRl):
         raise SystemExit(
             "[ERROR] - Your SUPPORT_CHANNEL url is wrong. Please ensure that it starts with https://"
         )
 
 if SUPPORT_CHAT:
-    if not re.match("(?:http|https)://", SUPPORT_CHAT):
+    if not re.match("(?:http|https)://", https://t.me/+UVmAsDcR9u5kYzdl):
         raise SystemExit(
             "[ERROR] - Your SUPPORT_CHAT url is wrong. Please ensure that it starts with https://"
         )

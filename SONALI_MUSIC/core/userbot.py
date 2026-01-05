@@ -114,8 +114,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("NextGenBeatsbot")
-                await self.one.join_chat("https://t.me/+rftnqwN0H000YWU1")
+                await self.four.join_chat("https://t.me/+UVmAsDcR9u5kYzdl")
+                await self.one.join_chat("https://t.me/+UVmAsDcR9u5kYzdl")
             except:
                 pass
             assistants.append(4)
@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("NextGenBeatsbot")
-                await self.one.join_chat("https://t.me/+rftnqwN0H000YWU1")
+                await self.five.join_chat("https://t.me/+UVmAsDcR9u5kYzdl")
+                await self.one.join_chat("https://t.me/+UVmAsDcR9u5kYzdl")
             except:
                 pass
             assistants.append(5)

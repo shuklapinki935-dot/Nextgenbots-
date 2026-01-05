@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
     HELP_03 = '''```
@@ -57,7 +57,7 @@ class Helper(object):
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER) **
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini) **
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -83,7 +83,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font badnam Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER) **
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini) **
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
 ❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ʀᴧᴊᴧ + sσηᴧ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -143,7 +143,7 @@ class Helper(object):
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -369,7 +369,7 @@ class Helper(object):
 
 `єxᴧϻᴘʟє : /git TEAMKRITI`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 '''
     
     HELP_PROMOTION = '''
@@ -398,12 +398,12 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)
+❍ ᴄσηᴛᴧᴄᴛ - [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
@@ -419,11 +419,11 @@ class Helper(object):
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/WHITE_DEVIL_BANNER)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/cute_girl_rohini)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 10 ᴊᴀɴ 2025 
 ─────────────────────────
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/WHITE_DEVIL_BANNER)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)**
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -438,10 +438,10 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ 𝐊ʀɪᴛɪ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/NextGenBeatsbot)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💞](https://t.me/+rftnqwN0H000YWU1)
-❖ ʙᴏᴛ σᴡηєʀ ➥ [𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 💕](https://t.me/NextGenBeatsbot)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/WHITE_DEVIL_BANNER)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/+9crnpY_arOliZDRl)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/+rftnqwN0H000YWU1)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [┈━═❣️Aʂƚɾιxια ɳҽƚɯσɾƙ❣️═━┈](https://t.me/cute_girl_rohini)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://t.me/cute_girl_rohini)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
    ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!!

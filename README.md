@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭
+𝗧𝗘𝗔𝗠 𝘼ʂƚɾι𝙭ια 𓊈Ćο𝘥𝐞ʳ𓊉
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-𝗧𝗘𝗔𝗠 𝐍𝐞𝐱𝐭𝐆𝐞𝐧𝐁𝐞𝐚𝐭𝐬𝐁𝐨𝐭 �
+𝗧𝗘𝗔𝗠 𝘼ʂƚɾι𝙭ια 𓊈Ćο𝘥𝐞ʳ𓊉 �
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─

@@ -2,7 +2,7 @@ import asyncio
 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-OWNERS = "8486348579"
+OWNERS = "8237288408"
 from SONALI_MUSIC import app
 from SONALI_MUSIC.utils.database import add_served_chat, get_assistant
 

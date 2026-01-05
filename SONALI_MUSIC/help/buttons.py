@@ -111,7 +111,7 @@ class BUTTONS(object):
     
     ABUTTON = [
         [
-            InlineKeyboardButton("⌯ sυᴘᴘσʀᴛ ⌯", url="https://t.me/+rftnqwN0H000YWU1"),
+            InlineKeyboardButton("⌯ sυᴘᴘσʀᴛ chat ⌯", url="https://t.me/+UVmAsDcR9u5kYzdl"),
             InlineKeyboardButton("⌯ υᴘᴅᴧᴛєs ⌯", url="https://t.me/+9crnpY_arOliZDRl"),
         ],
         [

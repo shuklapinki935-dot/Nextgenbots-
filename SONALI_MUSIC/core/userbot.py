@@ -51,8 +51,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("NextGenBeatsbot")
-                await self.one.join_chat("https://t.me/+rftnqwN0H000YWU1")
+                await self.one.join_chat("https://t.me/+UVmAsDcR9u5kYzdl")
+                await self.one.join_chat("https://t.me/+UVmAsDcR9u5kYzdl")
             except:
                 pass
             assistants.append(1)

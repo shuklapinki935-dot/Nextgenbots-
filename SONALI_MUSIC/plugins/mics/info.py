@@ -11,7 +11,7 @@ from typing import Union, Optional
 
 EVAA = [
     [
-        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/RadhaXbot?startgroup=true"),
+        InlineKeyboardButton(text="✙ ADD TO CHAT ✙", url=f"https://t.me/RadhaXbot?startgroup=true"),
     ],
 ]
 
@@ -73,7 +73,7 @@ INFO_TEXT = """
 ❍ ᴅᴄ ɪᴅ ▷ {}
 ❍ ʙɪᴏ ▷ {}
 
-❖ ϻᴧᴅє ʙʏ  ➛ [𝙰𝙽𝙾𝙽𝚈𝙼𝙾𝚄𝚂 💞](https://t.me/WHITE_DEVIL_BANNER)
+❖ ϻᴧᴅє ʙʏ  ➛ [𓊈Ćο𝘥𝐞ʳ𓊉](https://t.me/cute_girl_rohini)
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 """

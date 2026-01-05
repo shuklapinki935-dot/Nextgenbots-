@@ -101,7 +101,7 @@ class BUTTONS(object):
         ]
     PBUTTON = [
         [
-            InlineKeyboardButton("𓆩᪵ 𝙰𝙽𝙾𝙽𝚈𝙼𝙾𝚄𝚂 𓏲̟🪽", url="https://t.me/WHITE_DEVIL_BANNER")
+            InlineKeyboardButton("𓊈Ćο𝘥𝐞ʳ𓊉", url="https://t.me/cute_girl_rohini")
         ],
         [
             InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data="MAIN_CP"),
@@ -112,7 +112,7 @@ class BUTTONS(object):
     ABUTTON = [
         [
             InlineKeyboardButton("⌯ sυᴘᴘσʀᴛ ⌯", url="https://t.me/+rftnqwN0H000YWU1"),
-            InlineKeyboardButton("⌯ υᴘᴅᴧᴛєs ⌯", url="https://t.me/NextGenBeatsbot"),
+            InlineKeyboardButton("⌯ υᴘᴅᴧᴛєs ⌯", url="https://t.me/+9crnpY_arOliZDRl"),
         ],
         [
             InlineKeyboardButton("⌯ ʙᴧᴄᴋ ⌯", callback_data="settingsback_helper"),
